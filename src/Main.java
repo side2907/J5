@@ -23,6 +23,7 @@ public class Main {
                 System.out.println("Выбор не распознан... Попробуйте заново\n");
                 continue;
             }
+            //проверка гита // git test
             a--;
             System.out.println();
             animals[a].Name();
